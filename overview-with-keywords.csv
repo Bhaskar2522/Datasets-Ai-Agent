@@ -1,0 +1,27 @@
+phrase,prompt,overall_quality_of_the_audio,audio_clipping,background_noise_audible,has_pain,has_back,has_multiple_body_parts,has_knee,has_chest,has_dizzy,has_sore,has_cold_symptoms
+I have a sharp pain in my back,Back pain,4.5,no_clipping,no_noise,1,1,0,0,0,0,0,0
+My son had his lip pierced and it is swollen,Infected wound,3.8,light_clipping,light_noise,0,0,0,0,0,0,1,0
+I feel dizzy after standing up,Feeling dizzy,4.0,no_clipping,no_noise,0,0,0,0,0,1,0,0
+Severe pain in the upper left side of chest and may have pain to back,Heart hurts,4.2,no_clipping,light_noise,1,1,1,0,1,0,0,0
+I have muscle pain that my back and leg,Back pain,3.9,light_clipping,no_noise,1,1,1,0,0,0,0,0
+My knee hurts when I walk,Knee pain,4.1,no_clipping,no_noise,1,0,0,1,0,0,0,0
+I have a rash on my arm,Infected wound,3.7,light_clipping,light_noise,0,0,0,0,0,0,0,0
+Feeling lightheaded and tired,Feeling dizzy,4.3,no_clipping,no_noise,0,0,0,0,0,1,0,0
+Pain in my chest and arm,Heart hurts,4.0,no_clipping,light_noise,1,0,1,0,1,0,0,0
+My back aches constantly,Back pain,4.5,light_clipping,no_noise,0,1,0,0,0,0,0,0
+I have a sore throat and cough,Cold symptoms,3.8,no_clipping,light_noise,0,0,0,0,0,0,0,1
+My shoulder hurts when I lift things,Shoulder pain,4.2,no_clipping,no_noise,1,0,0,0,0,0,0,0
+My knee is aching,Knee pain,4.0,no_clipping,no_noise,0,0,0,1,0,0,0,0
+I have a cold and cough,Cold symptoms,4.0,no_clipping,no_noise,0,0,0,0,0,0,0,1
+My shoulder is sore,Shoulder pain,4.0,no_clipping,no_noise,0,0,0,0,0,0,1,0
+I feel dizzy again,Feeling dizzy,4.0,no_clipping,no_noise,0,0,0,0,0,1,0,0
+My chest hurts badly,Heart hurts,4.0,no_clipping,no_noise,1,0,0,0,1,0,0,0
+I have a swollen cut,Infected wound,4.0,no_clipping,no_noise,0,0,0,0,0,0,1,0
+My back pain is worse today,Back pain,4.0,no_clipping,no_noise,1,1,0,0,0,0,0,0
+My throat is sore again,Cold symptoms,4.0,no_clipping,no_noise,0,0,0,0,0,0,1,1
+Knee pain after running,Knee pain,4.0,no_clipping,no_noise,1,0,0,1,0,0,0,0
+Shoulder pain from lifting,Shoulder pain,4.0,no_clipping,no_noise,1,0,0,0,0,0,0,0
+Dizzy spell this morning,Feeling dizzy,4.0,no_clipping,no_noise,0,0,0,0,0,1,0,0
+Heart pain today,Heart hurts,4.0,no_clipping,no_noise,1,0,0,0,0,0,0,0
+Cough and sore throat,Cold symptoms,4.0,no_clipping,no_noise,0,0,0,0,0,0,0,1
+Swollen wound on leg,Infected wound,4.0,no_clipping,no_noise,0,0,0,0,0,0,1,0
